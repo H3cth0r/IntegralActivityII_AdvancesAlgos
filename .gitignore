@@ -1,0 +1,7 @@
+*.ccls-cache
+*.replit
+*.nix
+Makefile
+main-debug
+*.o
+*.exe
